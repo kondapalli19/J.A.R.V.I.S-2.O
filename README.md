@@ -26,13 +26,13 @@ Project, "Voice2Text+: Your AI Companion for Voice-Powered Efficiency," is an in
 
 - Reads the wikipedia content.
 
-- Telling the current time, checking the weather of the inputted city, read the healines of the today's news and also provides the link.
+- Telling the current time, checking the weather of the inputted city, read the headlines of the today's news and also provides the link.
 
-- play music, play game.
+- play music, play games.
 
 - Tell the schedule (timetable) provided.
 
-- stops after getting shutdown command.
+- stops after getting the shutdown command.
 
 
 🧑‍💻Installation
