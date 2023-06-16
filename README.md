@@ -1,5 +1,5 @@
 # Voice2Text+: Your AI Companion for Voice-Powered Efficiency
-This project uses NLP to communicate using openai api key and also uses internet connection for the better accuracy of results and provides real-time news, weather report and time as well.
+This project uses NLP to communicate using the OpenAI API key and also relies on an internet connection for better accuracy of results. Additionally, it provides real-time news, weather reports, and the current time.
 
 📃Table of Contents
 -------------------
