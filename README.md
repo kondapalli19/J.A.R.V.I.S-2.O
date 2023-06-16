@@ -19,6 +19,8 @@ Project, "Voice2Text+: Your AI Companion for Voice-Powered Efficiency," is an in
 🚀Features
 --------------------
 
+- Communicate with user in Natural language processing (NLP).
+
 - Opens Google, Youtube, vs code on taking command by micrphone.
 
 - Reads the wikipedia content.
