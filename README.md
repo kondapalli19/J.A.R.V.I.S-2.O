@@ -1,4 +1,5 @@
 # Voice2Text+: Your AI Companion for Voice-Powered Efficiency
+This project uses NLP to communicate using openai api key and also uses internet connection for the better accuracy of results and provides real-time news, weather report and time as well.
 
 📃Table of Contents
 -------------------
@@ -19,7 +20,7 @@ Project, "Voice2Text+: Your AI Companion for Voice-Powered Efficiency," is an in
 🚀Features
 --------------------
 
-- Communicate with user in Natural language processing (NLP).
+- Communicate with user in Natural language processing (NLP) and act as an intelligent agent by giving answers to your questions.
 
 - Opens Google, Youtube, vs code on taking command by micrphone.
 
@@ -59,7 +60,9 @@ Software Requirements:
                 - bs4
 
         * Get API from newsapi.org to get the today's news daily.
-
+       
+        * GET OPEN AI API KEY: For using Natural language Processing.
+              
         * In play music, music_dir variable give the path of the directory which contains only music file.
 
 
