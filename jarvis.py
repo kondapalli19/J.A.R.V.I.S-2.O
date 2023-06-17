@@ -1,5 +1,5 @@
 """Author: K. Koyal
-Date: 4/21/2023
+Date: 5/21/2023
 E-mail : kkoyal19599@gmail.com
 Virtual Assistant named: Jarvis_2.O"""
 
@@ -23,7 +23,7 @@ import subprocess
 
 
 
-openai.api_key = "YOUR_API_KEY"
+openai.api_key = "YOUR_API_KEY" # Here put your openai api key
 
 #To get the voice
 engine=pyttsx3.init('sapi5') 
@@ -186,7 +186,7 @@ if __name__=="__main__":
             'pageSize': 10,  # maximum is 100
 
         }
-            url = ('YOUR_NEWS_API')
+            url = ('YOUR_NEWS_API')    # Your News api key 
             response = requests.get(url,params=parameters)
             p=response.json()
             num=1
