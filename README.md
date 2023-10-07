@@ -1,4 +1,4 @@
-# Voice2Text+: Your AI Companion for Voice-Powered Efficiency
+# J.A.R.V.I.S-2.O
 This project uses NLP to communicate using the OpenAI API key and also relies on an internet connection for better accuracy of results. Additionally, it provides real-time news, weather reports, and the current time.
 
 📃Table of Contents
@@ -116,7 +116,7 @@ Check the microphone of your system is working or not if yes then check the modu
 If any other problem occured
 contact me through email - kkoyal19599@gamil.com
 
-
+Live Demo : https://www.youtube.com/watch?v=XMe2BzDkVoQ
 
 
 
